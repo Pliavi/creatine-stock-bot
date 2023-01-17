@@ -1,6 +1,10 @@
 # TEM CREATINA AÍ?
 
-| [English](./README_EN.md) | [Portuguese]("./README.md") |
+<center>
+
+| [English](./README_EN.md) | [Português](./README.md) |
+
+</center>
 
 ## O que é?
 

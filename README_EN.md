@@ -1,6 +1,10 @@
 # DO YOU HAVE CREATINE THERE?
 
-| [English](./README_EN.md) | [English]("./README.md") |
+<center>
+
+| [English](./README_EN.md) | [Português](./README.md) |
+
+</center>
 
 ## What is it?
 
